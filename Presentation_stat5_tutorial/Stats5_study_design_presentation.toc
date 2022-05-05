@@ -1,0 +1,7 @@
+\babel@toc {UKenglish}{}\relax 
+\beamer@sectionintoc {1}{Review of case-control and cohort studies designs}{3}{0}{1}
+\beamer@sectionintoc {2}{What is a biobank?}{6}{0}{2}
+\beamer@sectionintoc {3}{Small group activity: case-control and cohort designs}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Exercise (30 minutes)}{7}{0}{3}
+\beamer@subsectionintoc {3}{2}{Presentation (30 minutes)}{17}{0}{3}
+\beamer@sectionintoc {4}{Review of STAT 1-3 MCQs}{17}{0}{4}
