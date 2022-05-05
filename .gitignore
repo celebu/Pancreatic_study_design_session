@@ -271,6 +271,6 @@ TSWLatexianTemp*
 
 # standalone packages
 *.sta
-
+*.DS_Store
 # Makeindex log files
 *.lpz
